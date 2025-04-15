@@ -38,11 +38,11 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="https://unkey.dev"
+            href="https://t.me/dllabd"
             className="underline duration-500 hover:text-zinc-300"
           >
             unkey.dev
-          </Link> to solve API authentication and authorization for developers.
+          </Link> To contact personally.
         </h2>
       </div>
     </div>

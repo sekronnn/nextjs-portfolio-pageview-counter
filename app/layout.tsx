@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "sekron.com",
+    template: "%s | sekron.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Certified Forex Trader and ImGui Developer",
   openGraph: {
-    title: "chronark.com",
+    title: "sekron.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Certified Forex Trader and ImGui Developer",
+    url: "https://sekron.com",
+    siteName: "sekron.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://sekron.com/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Sekron",
     card: "summary_large_image",
   },
   icons: {
